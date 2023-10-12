@@ -100,3 +100,7 @@ button:active {
   justify-content: center;
   align-items: center;
 }
+
+.title {
+  user-select: none;
+}

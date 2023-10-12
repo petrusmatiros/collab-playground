@@ -92,6 +92,7 @@ socket.on("position-updated", (users) => {
 
 socket.on("user-joined", (users) => {
   var c = getCookie("userid");
+  console.log({users})
   cursors.textContent = "";
   if (c) {
     for (let i = 0; i < users.length; i++) {
