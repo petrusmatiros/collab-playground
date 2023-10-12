@@ -26,7 +26,7 @@ To get a development build, run `npm run dev`
 
 ### Dependencies
 ```json
-  "express": "^4.18.2",
-  "socket.io": "^4.6.1",
-  "uuid": "^9.0.0"
+"express": "^4.18.2",
+"socket.io": "^4.6.1",
+"uuid": "^9.0.0"
 ```
